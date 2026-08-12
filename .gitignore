@@ -1,0 +1,24 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+
+# Terraform variable files - may contain sensitive values
+*.tfvars
+*.tfvars.json
+
+# SSH private keys
+*.pem
+*.key
+
+# Ansible
+*.retry
+
+# Operating system / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Reference documentation
+*.docx
