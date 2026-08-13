@@ -3,6 +3,7 @@
 *.tfstate
 *.tfstate.*
 *.tfplan
+tfplan
 
 # Terraform variable files - may contain sensitive values
 *.tfvars
@@ -22,3 +23,8 @@ Thumbs.db
 
 # Reference documentation
 *.docx
+
+# Temporary files
+*.tmp
+~$*
+~WRL*
