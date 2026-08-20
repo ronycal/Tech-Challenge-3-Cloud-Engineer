@@ -1,4 +1,4 @@
-# Tech Challenge 3 - Cloud Engineer
+# Cloud Engineer Coding Challenge 3: Infrastructure as Code with Terraform and Ansible
 
 This project provisions and configures a web server environment on AWS using Terraform and Ansible.
 
